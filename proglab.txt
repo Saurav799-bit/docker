@@ -1,3 +1,7 @@
+docker pull 775986/myubuntuimage
+
+
+
 
 docker -version
   384  docker --version
@@ -41,4 +45,4 @@ docker -version
   422  history 25
   423  history 50
 
-docker pull sachiniit/docker-quickstart
+
